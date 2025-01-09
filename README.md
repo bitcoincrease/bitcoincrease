@@ -1,4 +1,4 @@
-比特币,汇率,恒生指数
+#比特币,汇率,恒生指数
 
 [![上证指数:周K线](http://image.sinajs.cn/newchart/weekly/n/sh601398.gif)](http://image.sinajs.cn/newchart/weekly/n/sh601398.gif)
 
